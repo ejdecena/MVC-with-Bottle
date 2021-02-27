@@ -1,0 +1,15 @@
+{
+    "bottle": {
+        "server":   "wsgiref",
+        "host":     "localhost",
+        "port":     8080,
+        "interval": 1,
+        "reloader": false,
+        "quiet":    false,
+        "plugins":  null,
+        "debug":    true,
+        "config":   null
+    },
+
+    "database": "database.db"
+}

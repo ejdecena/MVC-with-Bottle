@@ -1,0 +1,7 @@
+__pycache__
+controllers/__pycache__
+models/__pycache__
+core/__pycache__
+core/libs/__pycache__
+core/exceptions/__pycache__
+core/helpers/__pycache__
