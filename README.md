@@ -1,4 +1,4 @@
-# MVC-with-Bottle.
+# MVC-with-Bottle
 
 *MVC-with-Bottle* is a web microframework based on the Model-View-Controller design pattern and built on top of the <a href="https://bottlepy.org" target="_blank">Bottle</a> library.
 
@@ -24,4 +24,4 @@
 
 ## Contributions.
 
-Feel free to contribute to this project if you wish, by reporting [issues](https://github.com/ejdecena/ml_covid19_Oluwaseye/issues) or proposing improvements through pull-requests. Thank you.
+Feel free to contribute to this project if you wish, by reporting [issues](https://github.com/ejdecena/MVC-with-Bottle/issues) or proposing improvements through pull-requests. Thank you.
